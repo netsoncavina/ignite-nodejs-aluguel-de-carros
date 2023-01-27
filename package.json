@@ -1,0 +1,23 @@
+{
+  "name": "api-aluguel-de-carros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netsoncavina/ignite-nodejs-aluguel-de-carros.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netsoncavina/ignite-nodejs-aluguel-de-carros/issues"
+  },
+  "homepage": "https://github.com/netsoncavina/ignite-nodejs-aluguel-de-carros#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
