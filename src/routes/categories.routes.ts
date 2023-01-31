@@ -12,7 +12,6 @@ categoriesRoutes.post("/", (request, response) => {
   const category: Category = {
     name,
     description,
-    id: uuidV4(),
     created_at: new Date(),
   };
 
