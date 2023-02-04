@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-import { CategoriesRepository } from "../../cars/repositories/CategoriesRepository";
+import { CategoriesRepository } from "../../cars/repositories/implementations/CategoriesRepository";
 import { ListCategoriesUseCase } from "./ListCategoryUseCase";
 
 class ListCategoriesController {
